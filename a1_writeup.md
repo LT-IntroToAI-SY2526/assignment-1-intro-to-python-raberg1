@@ -18,6 +18,8 @@ After completing your problems, reflect on:
 
 1. **What was your initial experience with Python?** How did it compare to other programming languages you've used?
 
+I think that python is super cool.  The syntax is way easier than java.
+
 2. **How did you use AI effectively?** Give specific examples of good prompts you used and what you learned from the responses.
 
 3. **What concepts were most challenging?** How did AI help you understand them?
